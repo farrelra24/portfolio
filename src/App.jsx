@@ -19,7 +19,7 @@ function App() {
         </div>
         <img
           className="absolute bottom-0 right-96 w-[448.99px] h-[592px] object-cover"
-          src="./public/person.png"
+          src={"/person.png"}
           alt=""
         />
         <div className="absolute right-20 top-20">
