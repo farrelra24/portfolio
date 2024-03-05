@@ -174,7 +174,7 @@ function App() {
         </div>
         <img
           className="absolute bottom-0 left-24 w-[657px] h-[537.94px] object-cover"
-          src="./public/person2.png"
+          src={"/person2.png"}
           alt=""
         />
       </div>
@@ -195,7 +195,7 @@ function App() {
         </div>
         <img
           className="absolute bottom-0 right-96 w-[448.99px] h-[592px] object-cover"
-          src="./public/person3.png"
+          src={"/person3.png"}
           alt=""
         />
       </div>
